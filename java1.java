@@ -4,7 +4,7 @@ class java1{
         System.out.println("hello");
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();//new variable
-        int b=sc.nextInt();
+        int b=sc.nextInt();//2nd var
         int c=a+b;
         System.out.println(c);
         System.out.printf("%d",a);
