@@ -1,2 +1,2 @@
 # Java
-Starting java 
+Starting java programming
