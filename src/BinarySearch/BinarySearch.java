@@ -5,7 +5,7 @@ public class BinarySearch {
         int s=num[0];
         int e=num[num.length-1];
         int mid=(s+e)/2;
-        while(s<e){
+        while(s<=e){
             if(mid==key){
                return true;
             }
