@@ -5,7 +5,7 @@ public class CaseCheck {
         Scanner sc=new Scanner(System.in);
         char ch=sc.next().trim().charAt(0);//char at position 0
         //System.out.println(ch);
-        if(ch >='a' && ch <='z'){ //char is automatically  promoted to int
+        if(ch >='a' && ch <='z'){ //char is automatically promoted to int
             System.out.println("lowercase");
 
         }else{
