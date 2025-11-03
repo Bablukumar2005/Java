@@ -1,7 +1,6 @@
 package src.Array;
-import java.util.Scanner;
 import java.util.Arrays;
-public class SearchingIn2DArray {
+public class ISearchingIn2DArray {
 
         public static void main(String[] args) {
             int[][] arr = {
